@@ -16,14 +16,15 @@
 <br>
 
 ## 📃Description
-  A 3D Typewritting Keyboard which a key gets triggered with every pressed keys in actual keyboard. You can choose between 3 switches and even break the monitor when with a hammer.
+  This Projcet has several such as DarkMode Toggle an Change Language between Farsi and English.
+  Framer Motion has been used in this project for landing animations. some logos have darg and drop functionality for fun.
+  The responsive design have a independent sidebar that contains the nav bar, Dark Toggle and Change language options.
 
 <br>
 
 ## 📊Status
 ### Creator : HamidReza Rajabpour
-#### ⚙️ Technology used : HTML, Css, Scss, JS, 3d
-#### 〽️ style used : `Transform`, `3d-transforms` , `flex` , `animation` `bootstrap` `offset-path`
+#### ⚙️ Technology used : HTML, React, Tailwind
 <br>
 
 ## 🌐Social Media
