@@ -7,11 +7,11 @@
   <a href="https://hamidrjpr2.github.io/keyboard/" target="_blank">Demo</a>
   |
   <span>Give Tips -> </span>
-  <a href="https://hamidrjpr2.github.io/keyboard/" target="_blank">Telgram</a>
+  <a href="" target="_blank">Telgram</a>
 </h4>
 
 ### Project Preview
-![keyboard](https://github.com/hamidrjpr2/keyboard/assets/155876163/891a9c14-dcdf-4f31-a068-155bfb458a95)
+![Capture](https://github.com/user-attachments/assets/f57a4675-107b-4f68-8d57-12b2e4357951)
 
 <br>
 
